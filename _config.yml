@@ -1,0 +1,28 @@
+name: Media
+favicon: null
+layout_spectrum: 0.6823936353903264
+typography_spectrum: 0.3114809701219201
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8215670336503536
+  lightness: 0.5207173484377563
+  saturation: 0.09304615668952465
+  rhythmicContrast: 0.1342250076122582
+purpose: []
